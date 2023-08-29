@@ -29,3 +29,5 @@ Route::resource('/produtos', \App\Http\Controllers\ProdutoController::class);
 //        return 'clientes';
 //    })->name('clientes');
 //});
+
+//https://www.youtube.com/watch?v=8R-jluuasvM&list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb&index=42
